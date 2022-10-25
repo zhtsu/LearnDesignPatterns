@@ -31,7 +31,7 @@ public:
 class Factory
 {
 public:
-    Product* CreateProduct(const std::string& type)
+    static Product* CreateProduct(const std::string& type)
     {
         if (type == "A")
         {
