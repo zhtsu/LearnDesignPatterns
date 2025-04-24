@@ -3,7 +3,7 @@
 namespace SimpleFactory
 {
 
-void SimpleFactoryTest()
+void Test()
 {
     std::cout << "SimpleFactory Test:" << std::endl;
 

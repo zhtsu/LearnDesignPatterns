@@ -55,7 +55,7 @@ public:
     }
 };
 
-void FactoryMethodTest();
+void Test();
 
 } // namespace FactoryMethod
 

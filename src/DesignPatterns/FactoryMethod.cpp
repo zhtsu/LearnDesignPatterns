@@ -3,7 +3,7 @@
 namespace FactoryMethod
 {
 
-void FactoryMethodTest()
+void Test()
 {
     std::cout << "FactoryMethod Test:" << std::endl;
 

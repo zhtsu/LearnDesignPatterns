@@ -46,6 +46,6 @@ public:
     }
 };
 
-void SimpleFactoryTest();
+void Test();
 
 } // namespace SimpleFactory
